@@ -1,0 +1,9 @@
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.frmMain.resources
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.frmSerialPort.resources
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.Properties.Resources.resources
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.csproj.GenerateResource.Cache
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\bin\Debug\BXHSerialPort.XML
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\bin\Debug\BXHSerialPort.exe
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\bin\Debug\BXHSerialPort.pdb
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.exe
+E:\Brian\BRIAN\Alteams\BenXH\trunk\BXHSerialPort\obj\Debug\BXHSerialPort.pdb
